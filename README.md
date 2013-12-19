@@ -12,3 +12,6 @@ In best practices of Object-oriented programming!
 
 ## Contacts
 
+Have a question?
+
+novichkoff93@gmail.com
