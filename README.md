@@ -1,6 +1,6 @@
 # Source Code Formatter
 
-_Source Code Formatter for the programming language Java._
+Source Code Formatter for the programming language Java.
 
 ## Formatting features:
 
